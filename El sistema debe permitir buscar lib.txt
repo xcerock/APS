@@ -1,0 +1,15 @@
+El sistema debe permitir buscar libros por los campos ingresados a la hora del registro, los cuales son
+Titulo
+Autor
+Año de publicacion
+Genero
+Numero de paginas
+Editorial
+ISSN
+Idioma
+Fecha de publicacion
+Estado
+Nuevo
+Usado
+Precio
+El sistema debe permitir almacenar las busquedas realizadas por los usuarios registrados

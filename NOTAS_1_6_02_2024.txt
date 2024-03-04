@@ -1,0 +1,57 @@
+ADMINISTRACION DE PROYECTOS DE SOFTWARE
+
+Contenido:
+
+	C1: Generalidades sobre los proyectos y la gestion de proyectos
+
+		* Incidencia de la organizacion 
+		* Gestion de integracion 
+
+	C2-3: Metodologias: SCRUM, PSP, TSP
+
+		Procesos de planificacion
+		Gestion A /\ T + I + Adq
+			 /Q \
+			------
+			  C
+		Procesos de planificacion, medicion, analisis de sw
+
+Evaluacion(Leer Rubrica):
+
+1er Parcial (30%) Sem 6a
+
+	Contenido sem 1 - 5
+	
+	- Parcial escrito + actividades ----> 50%
+	- Parcial en plataforma         ----> 50%
+
+2do Parcial (25%) Sem 12ava
+
+	Contenidos Sem 7 - 11
+
+	- Parcial escrito + actividades ----> 50%
+	- Parcial en plataforma         ----> 50%
+
+3er Parcial (15%) Sem 16ava
+
+	Contenido sem 13 - 16
+
+	- Parcial escrito + actividades ----> 50%
+	- Parcial en plataforma         ----> 50%
+
+FINAL (30%) Sem 16 - 18
+
+	Contenido -------> TODO
+
+	- Parcial escrito + actividades ----> 50%
+	- Parcial en plataforma         ----> 50%
+
+plataforma.utp.edu.co
+clave: 241UtpapsW
+
+Profesor: Juan Veloza
+Correo:   veloza@utp.edu.co
+
+
+
+
