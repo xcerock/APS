@@ -251,9 +251,9 @@ Desarrollar el acta de constitución del proyecto es el proceso de desarrollar u
 
 - Beneficio clave: Inicio/limites del proyecto bien definidos, creacion de registro formal del proyecto y el establecimiento <-> compromiso de la organizacion
 
-### ENTRADAS 
+### ENTRADAS
 
-- Enunciado del trabajo del proyecto 
+- Enunciado del trabajo del proyecto
 - Caso de negocio
 - Acuerdos
 - F.A.E
@@ -308,3 +308,7 @@ Plantillas, Informacion historica, bases de conocimiento
 - Resumen ppto
 - Lista de interesados
 - Requisitos de aprobacion <-> Director
+
+CASO DE ESTUDIO
+
+- Hidroituango
