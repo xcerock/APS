@@ -230,7 +230,9 @@ Relación entre fases
 Req, fact, plan, diseño, construcc, pruebas, entrega
 **Ciclos de vida iterativos incrementales**
 **Ciclos de vida adaptativos**
+
 ### Activos de los procesos de la organización
+
 ___Procesos / Procedimientos:___ I,P,E,M,S,C
 ___Bases del conocimiento___ 
 B.d.c la gestión de configuración
@@ -238,10 +240,16 @@ Contiene ver, líneas base ,b.d.c, financieras,
 Información historica, lecciones aprendidas, B.d.d incidentes / defectos, inf de control
 B.d.d para medición de procesos
 Archivos de proyectos anteriores
+
 ### Factores ambientales de la empresa
+
 La cultura estructura y gobierno de la organización
 La distribución geográfica de inatalar y recursos
 Los estándares de la industria/ gubernamentales, las Infraestructura, los R.H existen la gestión de personalos sistemas de autoridad de trabajo, las condiciones del mercado, tolerancia al riesgo, climativo, canales de comunicación, las b.d.d comerciales, los S.I para D.D.P
+
+## Semana 5 - GESTION DE INTEGRACION
+
+05//03//2024
 
 ## GESTION DE INTEGRACION
 
