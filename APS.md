@@ -242,3 +242,69 @@ Archivos de proyectos anteriores
 La cultura estructura y gobierno de la organización
 La distribución geográfica de inatalar y recursos
 Los estándares de la industria/ gubernamentales, las Infraestructura, los R.H existen la gestión de personalos sistemas de autoridad de trabajo, las condiciones del mercado, tolerancia al riesgo, climativo, canales de comunicación, las b.d.d comerciales, los S.I para D.D.P
+
+## GESTION DE INTEGRACION
+
+### ACTA DE CONSTITUCION DEL PROYECTO
+
+Desarrollar el acta de constitución del proyecto es el proceso de desarrollar un documento que autoriza formalmente la existencia de un proyecto y confiere al director del proyecto la autoridad para asignar los recursos de la organizacion a las actividades del proyecto.
+
+- Beneficio clave: Inicio/limites del proyecto bien definidos, creacion de registro formal del proyecto y el establecimiento <-> compromiso de la organizacion
+
+### ENTRADAS 
+
+- Enunciado del trabajo del proyecto 
+- Caso de negocio
+- Acuerdos
+- F.A.E
+- A.P.O
+
+### HERRAMIENTAS Y TECNICAS
+
+- Juicio de expertos
+- Facilitacion
+
+### SALIDAS
+
+- Acta de constitucion del proyecto
+
+### ENUNCIADO DEL TRABAJO DEL PROYECTO
+
+Descripcion narrativa de los productos servicios, resultados (Necesidades)
+
+### CASO DE NEGOCIO
+
+Informacion necesaria desde una perspectiva del negocio.
+
+-Demanda del mercado: Necesidad de la organizacion, Solicitud de un cliente, avance tecnologico, Req legales, Impacto ecologico, necesidad social
+
+### ACUERDOS
+
+Contratos, memorandos de entendimiento, cartas de intencion, acuerdos verbales, acuerdo de niveles de servicio
+
+"Intenciones iniciales del proyecto"
+
+### FACTORES AMBIENTALES DE LA EMPRESA
+
+Estandares Gubernamentales, Cultura/Estructura de la organizacion.
+
+"Condiciones del mercado"
+
+### ACTIVOS DE LOS PROCESOS DE LA ORGANIZACION
+
+Procesos estandar de la organizacion
+
+Plantillas, Informacion historica, bases de conocimiento
+
+### ACTA DE CONSTITUCION
+
+- Proposito/Justificacion del proyecto
+- Objetivos medibles del proyecto <-> Criterios Exito
+- Requisitos de alto nivel
+- Supuestos y restricciones
+- Descripcion de alto nivel del proyecto <-> limites
+- Los riesgos de alto nivel
+- Cronograma <-> Resumen hitos
+- Resumen ppto
+- Lista de interesados
+- Requisitos de aprobacion <-> Director
